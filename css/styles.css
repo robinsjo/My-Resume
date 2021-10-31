@@ -16,7 +16,7 @@ h1 {
   color: #66BFBF;
 }
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 250%;
   color: #66BFBF;
   font-weight: normal;
@@ -72,6 +72,8 @@ margin: 100px 0;
 .bottom-container {
 background-color: #11999E;
   padding: 50px 0 0 20px;
+  margin-top: 30px;
+  margin-bottom: 0;
 
 }
 
@@ -155,12 +157,95 @@ background-color: #11999E;
   line-height: 2;
 }
 
-.Education-row {
-  width: 50%;
-  margin: auto;
+.edu {
+  padding-right: 20%;
+}
+
+
+.Education {
+  position: relative;
+  margin-bottom: 200px;
+}
+.Education-row0 {
+  width: 35%;
+    margin: 0 0 0 13rem;
   text-align: left;
   line-height: 2;
+  padding-left: 2rem;
+/*  border:solid;
+  border-color: #30e3cb ;
+  border-style: dotted;
+  border-width: thin; */
+  position:absolute;
+
 }
+
+.hr_pro  {
+
+}
+
+.Education-row1 {
+  width: 25%;
+  margin: 0 0 0 48rem;
+  text-align: left;
+  line-height: 2;
+  padding-left: 2rem;
+/*  border:solid;
+  border-color: #30e3cb ;
+  border-style: dotted;
+  border-width: thin; */
+  position:absolute;
+
+
+
+}
+
+.Education-row2 {
+  width: 35%;
+  margin: 13rem 0 0 13rem;
+  text-align: left;
+  line-height: 2;
+  padding-left: 2rem;
+/*  border:solid;
+  border-color: #30e3cb ;
+  border-style: dotted;
+  border-width: thin; */
+  position:absolute;
+
+
+
+
+}
+
+.Education-row3 {
+  width: 25%;
+  margin: 13rem 0 0 48rem;
+  text-align: left;
+  line-height: 2;
+  padding-left: 2rem;
+/*  border:solid;
+  border-color: #30e3cb ;
+  border-style: dotted;
+  border-width: thin;  */
+  position:absolute;
+
+
+}
+
+.Education-row4 {
+  width: 35%;
+  margin: 26rem 0 0 13rem;
+  text-align: left;
+  line-height: 2;
+  padding-left: 2rem;
+/*  border:solid;
+  border-color: #30e3cb ;
+  border-style: dotted;
+  border-width: thin;*/
+    position:absolute;
+}
+
+
 .hr_cls {
   background-color: white;
   border-style: none;
@@ -169,4 +254,22 @@ background-color: #11999E;
   border-width:6px;
   height: 0px;
   width: 1%;
+}
+
+.projects {
+margin-top:620px;
+}
+.project-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  margin:100px;
+}
+
+.copyright {
+  margin-bottom: 0;
 }
