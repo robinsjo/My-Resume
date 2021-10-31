@@ -186,14 +186,14 @@ background-color: #11999E;
 
 .Education-row1 {
   width: 25%;
-  margin: 0 0 0 43rem;
+  margin: 0 0 0 38rem;
   text-align: left;
   line-height: 2;
   padding-left: 2rem;
-/*  border:solid;
+  border:solid;
   border-color: #30e3cb ;
   border-style: dotted;
-  border-width: thin; */
+  border-width: thin;
   position:absolute;
 
 
@@ -219,7 +219,7 @@ background-color: #11999E;
 
 .Education-row3 {
   width: 25%;
-  margin: 13rem 0 0 43rem;
+  margin: 13rem 0 0 38rem;
   text-align: left;
   line-height: 2;
   padding-left: 2rem;
